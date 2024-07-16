@@ -11,4 +11,4 @@ Unity 엔진을 기반으로 제작된 2D RPG게임으로 포트폴리오 제출
 # 4. 플레이 영상
 - https://www.youtube.com/watch?v=DkzC9Ls5CZg
 # 5. 게임 다운로드
-- 준비중
+- https://drive.google.com/file/d/1Atoai62WTsESLXchPYXL2l1y5EahK2my/view?usp=drive_link
