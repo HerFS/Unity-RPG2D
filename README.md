@@ -6,9 +6,7 @@ Unity 엔진을 기반으로 제작된 2D RPG게임으로 포트폴리오 제출
 # 2. 개발 환경
 - C#
 - Window 10
-# 3. 기술 문서
-- https://drive.google.com/file/d/1cyM91mRXiAaGUEJxzH7EAFSNRSc9Mqw0/view?usp=drive_link
-# 4. 플레이 영상
+# 3. 플레이 영상
 - https://www.youtube.com/watch?v=DkzC9Ls5CZg
-# 5. 게임 다운로드
+# 4. 게임 다운로드
 - https://drive.google.com/file/d/1Atoai62WTsESLXchPYXL2l1y5EahK2my/view?usp=drive_link
